@@ -25,15 +25,19 @@ class LibraryScreen extends StatelessWidget {
                   Column(
                     children: [
                       Container(
-                        color: Colors.orange,
                         height: 100,
                         width: 180,
+                        decoration: BoxDecoration(
+                          image: DecorationImage(
+                            image: AssetImage('images/ezgif.com-webp-to-jpg.jpg')
+                          )
+                        ),
                       ),
                       Container(
                           width: 180,
                           child: ListTile(
-                            title: Text('This is a video',textAlign: TextAlign.justify,),
-                            subtitle: Text('Mr beast'),
+                            title: Text('Galaxy Note ..',textAlign: TextAlign.justify,),
+                            subtitle: Text('Marques '),
                             trailing: Icon(Icons.more_vert),
                           )
                       )
@@ -43,15 +47,19 @@ class LibraryScreen extends StatelessWidget {
                   Column(
                     children: [
                       Container(
-                        color: Colors.orange,
+                        decoration: BoxDecoration(
+                            image: DecorationImage(
+                                image: AssetImage('images/ezgif.com-webp-to-jpg (1).jpg')
+                            )
+                        ),
                         height: 100,
                         width: 180,
                       ),
                       Container(
                           width: 180,
                           child: ListTile(
-                            title: Text('This is a video',textAlign: TextAlign.justify,),
-                            subtitle: Text('Mr beast'),
+                            title: Text('How Microwa..',textAlign: TextAlign.justify,),
+                            subtitle: Text('Varitasium'),
                             trailing: Icon(Icons.more_vert),
                           )
                       )
@@ -61,15 +69,19 @@ class LibraryScreen extends StatelessWidget {
                   Column(
                     children: [
                       Container(
-                        color: Colors.orange,
+                        decoration: BoxDecoration(
+                            image: DecorationImage(
+                                image: AssetImage('images/ezgif.com-webp-to-jpg (2).jpg')
+                            )
+                        ),
                         height: 100,
                         width: 180,
                       ),
                       Container(
                           width: 180,
                           child: ListTile(
-                            title: Text('This is a video',textAlign: TextAlign.justify,),
-                            subtitle: Text('Mr beast'),
+                            title: Text('How Earth ..',textAlign: TextAlign.justify,),
+                            subtitle: Text('Vsause'),
                             trailing: Icon(Icons.more_vert),
                           )
                       )
@@ -79,15 +91,19 @@ class LibraryScreen extends StatelessWidget {
                   Column(
                     children: [
                       Container(
-                        color: Colors.orange,
+                        decoration: BoxDecoration(
+                            image: DecorationImage(
+                                image: AssetImage('images/ezgif.com-webp-to-jpg (3).jpg')
+                            )
+                        ),
                         height: 100,
                         width: 180,
                       ),
                       Container(
                           width: 180,
                           child: ListTile(
-                            title: Text('This is a video',textAlign: TextAlign.justify,),
-                            subtitle: Text('Mr beast'),
+                            title: Text('Can they win ..',textAlign: TextAlign.justify,),
+                            subtitle: Text('Linus'),
                             trailing: Icon(Icons.more_vert),
                           )
                       )
@@ -97,15 +113,19 @@ class LibraryScreen extends StatelessWidget {
                   Column(
                     children: [
                       Container(
-                        color: Colors.orange,
+                        decoration: BoxDecoration(
+                            image: DecorationImage(
+                                image: AssetImage('images/ezgif.com-webp-to-jpg (4).jpg')
+                            )
+                        ),
                         height: 100,
                         width: 180,
                       ),
                       Container(
                           width: 180,
                           child: ListTile(
-                            title: Text('This is a video',textAlign: TextAlign.justify,),
-                            subtitle: Text('Mr beast'),
+                            title: Text('lets play PUBG',textAlign: TextAlign.justify,),
+                            subtitle: Text('Mortal'),
                             trailing: Icon(Icons.more_vert),
                           )
                       )

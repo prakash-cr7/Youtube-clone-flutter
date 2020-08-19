@@ -1,3 +1,3 @@
 
-const double videoTileHeight = 280;
-const double thumbnailTileHeight = 200;
+const double videoTileHeight = 305;
+const double thumbnailTileHeight = 230;

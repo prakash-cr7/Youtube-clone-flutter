@@ -15,31 +15,53 @@ class SubscriptionsScreen extends StatelessWidget {
               scrollDirection: Axis.horizontal,
               children: [
                 CircleAvatar(
-                  radius: 40,
+                  backgroundImage: AssetImage('images/unnamed.jpg'),
+                  radius: 35,
                 ),
+                SizedBox(width: 10,),
                 CircleAvatar(
-                  radius: 40,
+                  backgroundImage: AssetImage('images/unnamed (1).jpg'),
+                  radius: 35,
                 ),
+                SizedBox(width: 10,),
                 CircleAvatar(
-                  radius: 40,
+                  backgroundImage: AssetImage('images/unnamed (2).jpg'),
+                  radius: 35,
                 ),
+                SizedBox(width: 10,),
                 CircleAvatar(
-                  radius: 40,
+                  backgroundImage: AssetImage('images/unnamed (3).jpg'),
+                  radius: 35,
                 ),
+                SizedBox(width: 10,),
                 CircleAvatar(
-                  radius: 40,
+                  backgroundImage: AssetImage('images/unnamed (4).jpg'),
+                  radius: 35,
                 ),
+                SizedBox(width: 10,),
                 CircleAvatar(
-                  radius: 40,
+                  backgroundImage: AssetImage('images/unnamed.jpg'),
+                  radius: 35,
                 ),
+                SizedBox(width: 10,),
                 CircleAvatar(
-                  radius: 40,
+                  backgroundImage: AssetImage('images/unnamed (1).jpg'),
+                  radius: 35,
                 ),
+                SizedBox(width: 10,),
                 CircleAvatar(
-                  radius: 40,
+                  backgroundImage: AssetImage('images/unnamed (2).jpg'),
+                  radius: 35,
                 ),
+                SizedBox(width: 10,),
                 CircleAvatar(
-                  radius: 40,
+                  backgroundImage: AssetImage('images/unnamed (3).jpg'),
+                  radius: 35,
+                ),
+                SizedBox(width: 10,),
+                CircleAvatar(
+                  backgroundImage: AssetImage('images/unnamed (4).jpg'),
+                  radius: 35,
                 ),
               ],
             ),

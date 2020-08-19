@@ -201,6 +201,7 @@ class ExploreScrren extends StatelessWidget {
               ],
             ),
           ),
+          Divider(),
           HomeScreen()
         ],
       ),

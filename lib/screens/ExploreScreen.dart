@@ -11,11 +11,11 @@ class ExploreScrren extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 Container(
                   height: 50,
-                  width: 200,
+                  width: 180,
                   decoration: BoxDecoration(
                       color: Colors.red,
                       borderRadius: BorderRadius.circular(8)),
@@ -35,7 +35,7 @@ class ExploreScrren extends StatelessWidget {
                 ),
                 Container(
                   height: 50,
-                  width: 200,
+                  width: 180,
                   decoration: BoxDecoration(
                       color: Colors.green,
                       borderRadius: BorderRadius.circular(8)),
@@ -60,11 +60,11 @@ class ExploreScrren extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 Container(
                   height: 50,
-                  width: 200,
+                  width: 180,
                   decoration: BoxDecoration(
                       color: Colors.deepOrangeAccent,
                       borderRadius: BorderRadius.circular(8)),
@@ -84,7 +84,7 @@ class ExploreScrren extends StatelessWidget {
                 ),
                 Container(
                   height: 50,
-                  width: 200,
+                  width: 180,
                   decoration: BoxDecoration(
                       color: Colors.indigo,
                       borderRadius: BorderRadius.circular(8)),
@@ -108,11 +108,11 @@ class ExploreScrren extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 Container(
                   height: 50,
-                  width: 200,
+                  width: 180,
                   decoration: BoxDecoration(
                       color: Colors.yellow,
                       borderRadius: BorderRadius.circular(8)),
@@ -132,7 +132,7 @@ class ExploreScrren extends StatelessWidget {
                 ),
                 Container(
                   height: 50,
-                  width: 200,
+                  width: 180,
                   decoration: BoxDecoration(
                       color: Colors.purple,
                       borderRadius: BorderRadius.circular(8)),
@@ -156,11 +156,11 @@ class ExploreScrren extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 Container(
                   height: 50,
-                  width: 200,
+                  width: 180,
                   decoration: BoxDecoration(
                       color: Colors.lightGreen,
                       borderRadius: BorderRadius.circular(8)),
@@ -180,7 +180,7 @@ class ExploreScrren extends StatelessWidget {
                 ),
                 Container(
                   height: 50,
-                  width: 200,
+                  width: 180,
                   decoration: BoxDecoration(
                       color: Colors.orange[900],
                       borderRadius: BorderRadius.circular(8)),

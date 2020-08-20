@@ -1,4 +1,4 @@
-# youtube_clo for mobile devices only.
+# youtube_clone for mobile devices only.
 ## I made a yooutube clone using flutter in less than 12 hours.
 
 - for mobile devices only.

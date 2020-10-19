@@ -41,6 +41,7 @@ class _HomePageState extends State<HomePage> {
         screenContent: screenWidgets[selectedIndex],
       ),
       bottomNavigationBar: BottomNavigationBar(
+        type: BottomNavigationBarType.fixed,
         currentIndex: selectedIndex,
         selectedItemColor: Colors.white,
         unselectedItemColor: Colors.grey,
